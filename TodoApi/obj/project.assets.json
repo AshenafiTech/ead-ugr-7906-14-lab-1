@@ -1187,11 +1187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ashe/Desktop/TodoApi/TodoApi.csproj",
+      "projectUniqueName": "/home/ashe/Desktop/betsegaw/TodoApi/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "/home/ashe/Desktop/TodoApi/TodoApi.csproj",
+      "projectPath": "/home/ashe/Desktop/betsegaw/TodoApi/TodoApi.csproj",
       "packagesPath": "/home/ashe/.nuget/packages/",
-      "outputPath": "/home/ashe/Desktop/TodoApi/obj/",
+      "outputPath": "/home/ashe/Desktop/betsegaw/TodoApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ashe/.nuget/NuGet/NuGet.Config"
